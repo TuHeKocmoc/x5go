@@ -1,0 +1,35 @@
+HW2/main.go
+  s_c0bd9a09842bfa::t_2537a21e01c5e2 1-16,18-44
+  h_682875e1bcbe19 17
+HW2/order.go
+  s_c0bd9a09842bfa::t_2537a21e01c5e2 1-9,11-56
+  h_682875e1bcbe19 10
+HW2/debug.dlv
+  s_c0bd9a09842bfa::t_f3d5d93423d5b7 1,14
+  s_c0bd9a09842bfa::t_624808b52af44c 2-13,15-16
+HW1/task2.go
+  h_682875e1bcbe19 1-53
+HW2/order_test.go
+  s_c0bd9a09842bfa::t_2537a21e01c5e2 1-94
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6ea500b50a2a445e6ceb1b720cf2feebba8a2642",
+  "prompts": {},
+  "humans": {
+    "h_682875e1bcbe19": {
+      "author": "Danila Riazanov <nixlle@rambler.ru>"
+    }
+  },
+  "sessions": {
+    "s_c0bd9a09842bfa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1210a-8b43-7fc0-af1e-b9a5edd14274",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Danila Riazanov <nixlle@rambler.ru>"
+    }
+  }
+}
