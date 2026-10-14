@@ -34,8 +34,8 @@ func main() {
 	orderCopy.Status = "paid"
 	orderCopy.Items[0].Price = 1000
 
-	fmt.Println("Исходный заказ:", order.ID, statusNames[order.Status], Total(*order))
-	fmt.Println("Копия заказа:", orderCopy.ID, statusNames[orderCopy.Status], Total(orderCopy))
+	fmt.Println(order.ID, statusNames[order.Status], Total(*order))
+	fmt.Println(orderCopy.ID, statusNames[orderCopy.Status], Total(orderCopy))
 
 	err = AddItem(nil, "Кофе", 12000)
 	if err != nil {
