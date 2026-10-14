@@ -1,0 +1,14 @@
+HW2/main.go
+  h_682875e1bcbe19 37-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b790b3d6aa7601eb59c67b9d3cf7231cf74e6652",
+  "prompts": {},
+  "humans": {
+    "h_682875e1bcbe19": {
+      "author": "Danila Riazanov <nixlle@rambler.ru>"
+    }
+  }
+}
