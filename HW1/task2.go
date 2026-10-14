@@ -21,10 +21,6 @@ func readLine() string {
 
 func task2() {
 	fields := strings.Fields(readLine())
-	if len(fields) == 0 {
-		fmt.Println("Срез пуст: статистику вычислить нельзя")
-		return
-	}
 
 	amounts := make([]int, len(fields))
 	for index, field := range fields {
