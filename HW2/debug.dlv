@@ -1,0 +1,16 @@
+break HW2/order.go:37
+continue
+print len(order.Items)
+print cap(order.Items)
+next
+print len(order.Items)
+print cap(order.Items)
+continue
+print len(order.Items)
+print cap(order.Items)
+next
+print len(order.Items)
+print cap(order.Items)
+clear 1
+continue
+exit
